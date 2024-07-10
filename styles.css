@@ -1,0 +1,30 @@
+body{
+
+    background-image:url("https://plus.unsplash.com/premium_photo-1661663603858-2df08fe3d65d?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbGN1bGF0b3J8ZW58MHx8MHx8fDA%3D");
+    background-repeat: no-repeat;
+    
+}
+input{
+    background-color:lightcoral;
+    height:50px;
+    width: 200px;
+    border-radius: 10px;
+}
+hr{
+    height: 10px;
+    color: cadetblue;
+    width: 20;
+    background: cadetblue;
+}
+button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 1px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:100px;
+  }
+  
